@@ -1,6 +1,6 @@
 # vaishnavi64
 <h1 align="center">Hi 👋, I'm K.vaishnavi</h1>
-<h3 align="center">A passionate frontend developereloper from India</h3>
+<h3 align="center">A passionate frontend developere from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi6464&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi6464" /> </p>
 
